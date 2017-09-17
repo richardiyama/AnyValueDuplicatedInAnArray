@@ -1,0 +1,5 @@
+c:\users\richard iyama\documents\visual studio 2017\Projects\AnyDuplicatedArray\AnyDuplicatedArray\bin\Debug\AnyDuplicatedArray.exe.config
+c:\users\richard iyama\documents\visual studio 2017\Projects\AnyDuplicatedArray\AnyDuplicatedArray\bin\Debug\AnyDuplicatedArray.exe
+c:\users\richard iyama\documents\visual studio 2017\Projects\AnyDuplicatedArray\AnyDuplicatedArray\bin\Debug\AnyDuplicatedArray.pdb
+c:\users\richard iyama\documents\visual studio 2017\Projects\AnyDuplicatedArray\AnyDuplicatedArray\obj\Debug\AnyDuplicatedArray.exe
+c:\users\richard iyama\documents\visual studio 2017\Projects\AnyDuplicatedArray\AnyDuplicatedArray\obj\Debug\AnyDuplicatedArray.pdb
